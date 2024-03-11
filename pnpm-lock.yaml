@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  chrome-types:
+    specifier: ^0.1.271
+    version: 0.1.271
+
+packages:
+
+  /chrome-types@0.1.271:
+    resolution: {integrity: sha512-0EuOomrQPW8g0h42lZGEcU16dDDo55h/ZJfSWgs3XHjigZL8fGp9iF/1C1ZwvjyRdT2nSjwyfluAIwMZli2ZFQ==}
+    dev: false
